@@ -1,5 +1,5 @@
 ### Check out my work!
-https://ahmedm6.github.io/ahmedm6/
+https://ahmedr6.github.io/ahmedr6/
 <!--
 **ahmedm6/ahmedm6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
